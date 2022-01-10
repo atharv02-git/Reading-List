@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Reading List
-This project is made using React Contexts and hooks and the data is stored to local storage.
+This static React project is made using React Contexts and hooks and the data is stored to local storage.
 
 ## Available Scripts
 
